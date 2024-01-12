@@ -18,6 +18,7 @@ I am a cinephile with a love for all sorts of niche movies. I love Studio Ghibli
 
 Deployment link: [React UI utilizing my API](https://we-love-movies-ui-9f0n.onrender.com)
 
+[Github link to my API](https://github.com/MariahCasciola/We-Love-Movies)
 
 ## Web Pages
 
